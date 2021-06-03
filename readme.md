@@ -10,3 +10,9 @@ you may need to download the nltk stopwords using:
 before running. This will help fetch all the english stopwords.
 
 -x-x-x-x-x-x-x
+
+## Results:
+### Individual =>
+
+
+### Conclusive analysis =>
