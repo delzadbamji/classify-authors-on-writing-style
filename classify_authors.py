@@ -70,7 +70,7 @@ def main():
     visualize_mapper(mapper, files)
     df = pd.DataFrame.from_dict(mapper)
     print(df)
-    df.to_csv("stopwordsDF.csv", index=True, header=True, na_rep=0)
+    df.to_csv("Results.csv", index=True, header=True, na_rep=0)
 
 
 main()
