@@ -14,6 +14,7 @@ before running. This will help fetch all the english stopwords.
 ## Results:
 ### Individual =>
 - ![and or](https://github.com/delzadbamji/classify-authors-on-writing-style/blob/main/andOr.png)
+- ![this that](https://github.com/delzadbamji/classify-authors-on-writing-style/blob/main/thisThat.png)
 
 ### Conclusive analysis =>
 ![conclusive analysis](https://github.com/delzadbamji/classify-authors-on-writing-style/blob/main/conclusive_analysis.png)
