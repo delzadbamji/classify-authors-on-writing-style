@@ -16,3 +16,4 @@ before running. This will help fetch all the english stopwords.
 
 
 ### Conclusive analysis =>
+![conclusive analysis](https://github.com/delzadbamji/classify-authors-on-writing-style/blob/main/conclusive_analysis.png)
