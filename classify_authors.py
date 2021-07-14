@@ -17,7 +17,7 @@ def get_stop_words(all_mapper, stops):
         for key in tqdm(list(all_mapper[i])):
             if key not in stops:
                 del all_mapper[i][key]
-    print(all_mapper)
+    # print(all_mapper)
     return all_mapper
 
 
@@ -69,7 +69,7 @@ def main():
     mapper = preprocess(files, stops)
     visualize_mapper(mapper, files)
     df = pd.DataFrame.from_dict(mapper)
-    print(df)
+    # print(df)
     df.to_csv("Results.csv", index=True, header=True, na_rep=0)
 
 
